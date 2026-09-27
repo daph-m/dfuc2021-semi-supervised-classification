@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dissertation project files
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Dataset files
+data/
+datasets/
+
+# Saved model/checkpoint folders
+checkpoints/
+
+# macOS files
+.DS_Store
